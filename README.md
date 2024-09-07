@@ -1,2 +1,2 @@
-# employee_turnover_modelling
-Employee turnover modelling in Python using various approaches
+# Employee turnover modelling
+Salifort Motors (fictional company) employee turnover modelling in Python using various approaches.
